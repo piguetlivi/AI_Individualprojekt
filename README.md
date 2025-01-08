@@ -7,15 +7,15 @@ Mask2Former ist eine Erweiterung des MaskFormer und nutzt mask attention sowie m
 ## Inhalt des Repositories
 
 1. **Semantische Segmentierung: Inference mit Mask2Former**
-   - **Notebook:** `Inference Mask2Former (1).ipynb`
+   - **Notebook:** `Semantische Segmentierung - Inference Mask2Former.ipynb`
    - **Beschreibung:** Zeigt, wie semantische Segmentierung mit Mask2Former durchgeführt wird.
      
 2. **Panoptische Segmentierung: Inference Mask2Former**
-   - **Notebook:** `Panoptische Segmentierung_ Inference Mask2Former.ipynb`
+   - **Notebook:** `Panoptische Segmentierung - Inference Mask2Former.ipynb`
    - **Beschreibung:** Demonstriert den Einsatz von Mask2Former für die panoptische Segmentierung.
   
 3. **Fine Tuning Mask2Former**
-   - **Notebook:** `Fine Tuning Mask2Former (1).ipynb`
+   - **Notebook:** `Fine Tuning MaskFormer.ipynb`
    - **Beschreibung:** Erläutert das Fine-Tuning von Mask2Former auf benutzerdefinierten Datensätzen. Beinhaltet die Vorbereitung von Daten, die Anpassung von Hyperparametern und die Modellbewertung.
 
 ## Voraussetzungen
