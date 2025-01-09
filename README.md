@@ -15,7 +15,7 @@ Mask2Former ist eine Erweiterung des MaskFormer und nutzt mask attention sowie m
    - **Beschreibung:** Demonstriert den Einsatz von Mask2Former für die panoptische Segmentierung.
   
 3. **Fine Tuning Mask2Former**
-   - **Notebook:** `Fine Tuning MaskFormer.ipynb`
+   - **Notebook:** `Fine Tuning MaskFormer.ipynb` sowie `Fine Tuning MaskFormer_2.0.ipynb`
    - **Beschreibung:** Erläutert das Fine-Tuning von Mask2Former auf benutzerdefinierten Datensätzen. Beinhaltet die Vorbereitung von Daten, die Anpassung von Hyperparametern und die Modellbewertung.
 
 ## Voraussetzungen
